@@ -1,5 +1,6 @@
 ---
-path: "/post-one"
+id: 2
+path: "/post-two"
 title: "first post"
 author: "first post"
 ---
